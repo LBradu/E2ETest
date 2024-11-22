@@ -24,7 +24,7 @@ public class E2ETest {
 	driver.findElement(By.id("userEmail")).click();
 	driver.findElement(By.id("userEmail")).sendKeys("abc8@gmail.com");	
 	driver.findElement(By.id("userPassword")).click();
-	driver.findElement(By.id("userPassword")).sendKeys("AbecedarB1*.");
+	driver.findElement(By.id("userPassword")).sendKeys("Parola1*.");
 	driver.findElement(By.id("login")).submit();
 	
 	Thread.sleep(3000);

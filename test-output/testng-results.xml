@@ -2,12 +2,12 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2024-11-22T07:44:29 EET" name="Default suite" finished-at="2024-11-22T07:45:09 EET" duration-ms="39788">
+  <suite started-at="2024-11-22T08:14:43 EET" name="Default suite" finished-at="2024-11-22T08:15:11 EET" duration-ms="28579">
     <groups>
     </groups>
-    <test started-at="2024-11-22T07:44:29 EET" name="Default test" finished-at="2024-11-22T07:45:09 EET" duration-ms="39788">
+    <test started-at="2024-11-22T08:14:43 EET" name="Default test" finished-at="2024-11-22T08:15:11 EET" duration-ms="28579">
       <class name="practica.E2ETest">
-        <test-method signature="methodOne()[pri:0, instance:practica.E2ETest@268f106e]" started-at="2024-11-22T07:44:29 EET" name="methodOne" finished-at="2024-11-22T07:45:09 EET" duration-ms="39627" status="PASS">
+        <test-method signature="methodOne()[pri:0, instance:practica.E2ETest@268f106e]" started-at="2024-11-22T08:14:43 EET" name="methodOne" finished-at="2024-11-22T08:15:11 EET" duration-ms="28303" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- methodOne -->
